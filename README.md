@@ -1,7 +1,5 @@
 # MediReminderApp
 
-# MediReminderApp
-
 💊 **Never miss a dose!**  
 MediReminderApp is a smart multilingual Android medicine reminder built with **Kotlin**.  
 It helps you schedule, track, and get notified about your medicines — with **voice assistant support**, **repeat schedules**, and **smart alerts**.
@@ -29,10 +27,11 @@ It helps you schedule, track, and get notified about your medicines — with **v
 
 ### ➕ Add Reminder
 ![Add Reminder Screen](screenshots/add_reminder.jpg)
-![Add Reminder Screen](screenshots/add_reminders.jpg)
 
 ### 📋 View Saved Reminders
-![View Saved Reminders Screen](screenshots/view_reminders.jpg)
+![View Saved Reminders Screen](screenshots/view_saved_reminders.jpg)
+
+> 💡 *Place your screenshot images in a `screenshots` folder in the root of your repo and replace these filenames as needed.*
 
 ## 📄 License
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
