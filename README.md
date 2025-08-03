@@ -21,6 +21,7 @@ It helps you schedule, track, and get notified about your medicines — with **v
 - **Material Design Components**
 
 ## 📷 Screenshots
+![home](https://github.com/user-attachments/assets/b67c31b6-99fd-44a9-b047-41783879ecc5)
 
 ### 🏠 Home Screen
 ![Home Screen](screenshots/home.jpg)
