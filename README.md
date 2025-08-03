@@ -30,7 +30,7 @@ It helps you schedule, track, and get notified about your medicines — with **v
 ![Add Reminder Screen](screenshots/add_reminder.jpg)
 
 ### 📋 View Saved Reminders
-![View Saved Reminders Screen](screenshots/view_saved_reminders.jpg)
+![view_saved_reminders](https://github.com/user-attachments/assets/31790b8e-4754-40d4-8a29-288b77c793e6)
 
 > 💡 *Place your screenshot images in a `screenshots` folder in the root of your repo and replace these filenames as needed.*
 
